@@ -2,11 +2,12 @@
 ------Created By Whit3Xlightning------
 --https://github.com/Whit3XLightning--
 --------------------------------------
+-- https://github.com/Rivest8/wld-delallveh --
 
 Config = {}
 
 Config = {
-    commandName = "delallveh",
+    commandName = "massdv",
     -- This is the command that you will type into chat to execute the script.
 
     restricCommand = true
