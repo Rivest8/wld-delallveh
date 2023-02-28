@@ -1,7 +1,8 @@
---------------------------------------
-------Created By Whit3Xlightning------
---https://github.com/Whit3XLightning--
---------------------------------------
+----------------------------------------
+-------Created By Whit3Xlightning-------
+-- https://github.com/Whit3XLightning --
+---------------------------------------
+-- https://github.com/Rivest8/wld-delallveh --
 
 local inProgress = false
 

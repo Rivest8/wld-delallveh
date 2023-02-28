@@ -1,7 +1,8 @@
---------------------------------------
-------Created By Whit3Xlightning------
---https://github.com/Whit3XLightning--
---------------------------------------
+----------------------------------------
+-------Created By Whit3Xlightning-------
+-- https://github.com/Whit3XLightning --
+---------------------------------------
+-- https://github.com/Rivest8/wld-delallveh --
 
 RegisterNetEvent("wld:delallveh")
 AddEventHandler("wld:delallveh", function ()
